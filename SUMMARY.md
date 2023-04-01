@@ -1,7 +1,7 @@
 # Table of contents
 
-* [OSCP](README.md)
+* [보안 공부 노트](README.md)
 
-## OSCP cheat sheet
+## OSCP
 
-* [nmap](oscp-cheat-sheet/nmap.md)
+* [OSCP Cheat Sheet](oscp/oscp-cheat-sheet.md)
